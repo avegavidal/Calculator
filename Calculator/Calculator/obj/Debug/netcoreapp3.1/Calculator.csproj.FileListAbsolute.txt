@@ -1,0 +1,13 @@
+C:\Users\Padrino\Desktop\Assigments\Calculator\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.exe
+C:\Users\Padrino\Desktop\Assigments\Calculator\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.deps.json
+C:\Users\Padrino\Desktop\Assigments\Calculator\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.json
+C:\Users\Padrino\Desktop\Assigments\Calculator\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.dev.json
+C:\Users\Padrino\Desktop\Assigments\Calculator\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.dll
+C:\Users\Padrino\Desktop\Assigments\Calculator\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.pdb
+C:\Users\Padrino\Desktop\Assigments\Calculator\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.csprojAssemblyReference.cache
+C:\Users\Padrino\Desktop\Assigments\Calculator\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfoInputs.cache
+C:\Users\Padrino\Desktop\Assigments\Calculator\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfo.cs
+C:\Users\Padrino\Desktop\Assigments\Calculator\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Padrino\Desktop\Assigments\Calculator\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.dll
+C:\Users\Padrino\Desktop\Assigments\Calculator\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.pdb
+C:\Users\Padrino\Desktop\Assigments\Calculator\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.genruntimeconfig.cache
